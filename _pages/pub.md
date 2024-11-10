@@ -37,7 +37,7 @@ redirect_from:
       performance across standard benchmarks.
     </p>
   </details>  
-  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #1E90FF;">Code</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #1E90FF;">Website</span>](https://redqueen1011.github.io/)
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #1E90FF;">Code</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #1E90FF;">Project Website</span>](https://redqueen1011.github.io/)
 
 
 
