@@ -63,10 +63,36 @@ redirect_from:
 
 ## 2024
 
-- ### <span style="color: #4682B4; font-weight: bold;">ARN: Analogical Reasoning on Narratives</span>
-    Zhivar Sourati, Filip Ilievski, Pia Sommerauer, ***Yifan Jiang***
-  
-  *TACL*
+- ### <span style="color: #4682B4; font-weight: bold;">MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning</span>
+  *NeurIPS DB track*<br>
+   ***Yifan Jiang***\*, Jiarui Zhang*, Kexuan Sun*, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, Filip Ilievski, Jay Pujara
+  <img src="../assets/paper_image/marvel_image.png" alt="MARVEL_Image" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+     While multi-modal large language models (MLLMs) have shown significant progress on many popular visual reasoning benchmarks, whether
+    they possess abstract visual reasoning abilities remains an open question.
+    Similar to the Sudoku puzzles, abstract visual reasoning (AVR) problems
+    require finding high-level patterns (e.g., repetition constraints) that control
+    the input shapes (e.g., digits) in a specific task configuration (e.g., matrix). However, existing AVR benchmarks only considered a limited set
+    of patterns (addition, conjunction), input shapes (rectangle, square), and
+    task configurations (3 × 3 matrices). To evaluate MLLMs’ reasoning abilities comprehensively, we introduce MARVEL, a multidimensional AVR
+    benchmark with 770 puzzles composed of six core knowledge patterns,
+    geometric and abstract shapes, and five different task configurations. To inspect whether the model accuracy is grounded in perception and reasoning,
+    MARVEL complements the general AVR question with perception questions in a hierarchical evaluation framework. We conduct comprehensive
+    experiments on MARVEL with nine representative MLLMs in zero-shot
+    and few-shot settings. Our experiments reveal that all models show nearrandom performance on the AVR question, with significant performance
+    gaps (40%) compared to humans across all patterns and task configurations. Further analysis of perception questions reveals that MLLMs struggle
+    to comprehend the visual features (near-random performance) and even
+    count the panels in the puzzle (<45%), hindering their ability for abstract
+    reasoning.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2404.13591) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/1171-jpg/MARVEL_AVR) | [<span style="color: #1E90FF;">Project Website</span>](https://marvel770.github.io/)  | [<span style="color: #1E90FF;">Hugging Face</span>](https://huggingface.co/datasets/kianasun/MARVEL)  
+
+- ### <span style="color: #4682B4; font-weight: bold;">ARN: Analogical Reasoning on Narratives</span><br>
+  *TACL*<br>
+  Zhivar Sourati, Filip Ilievski, Pia Sommerauer, ***Yifan Jiang***
   <img src="../assets/paper_image/arn_image.png" alt="ARN_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
@@ -78,10 +104,8 @@ redirect_from:
 
 
 - ### <span style="color: #4682B4; font-weight: bold;">Semeval-2024 task 9: Brainteaser: A novel task defying common sense</span>
-    ***Yifan Jiang***, Filip Ilievski, Kaixin Ma
-  
-  *Semeval@NAACL*
-  <img src="../assets/paper_image/columbus_image.png" alt="COLUMBUS_Image" style="width: 500px;">
+  *Semeval@NAACL*<br>
+  ***Yifan Jiang***, Filip Ilievski, Kaixin Ma
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
