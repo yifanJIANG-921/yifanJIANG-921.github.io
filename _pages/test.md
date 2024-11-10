@@ -1,10 +1,10 @@
 ---
-permalink: /test/
-title: "Test"
+permalink: /pub/
+title: "Publications"
 author_profile: true
 redirect_from: 
-  - /test/
-  - /test.html
+  - /pub/
+  - /pub.html
 ---
 
 ### Test
