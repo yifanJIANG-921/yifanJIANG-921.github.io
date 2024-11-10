@@ -20,7 +20,18 @@ I was a research intern at <a href="https://www.hippocraticai.com/" style="displ
 
 
 
-## News
+## <span style="color: #4682B4;">News</span>
+
+- **<span style="color: #1E90FF;">[2024-10-07]</span>** One first-authored paper: [<span style="color: #2E8B57;">**MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning**</span>](https://arxiv.org/abs/2404.13591) has been accepted to [<span style="color: #8A2BE2;">**NeurIPS 2024**</span>](https://neurips.cc/)!
+- **<span style="color: #1E90FF;">[2024-09-23]</span>** Our research is highlighted in this [<span style="color: #FF4500;">**BBC article**</span>](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind)!
+- **<span style="color: #1E90FF;">[2024-07-10]</span>** One paper: [<span style="color: #2E8B57;">**The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language Models**</span>](https://arxiv.org/abs/2401.12117) has been accepted to [<span style="color: #8A2BE2;">**COLM 2024**</span>](https://colmweb.org/)!
+- **<span style="color: #1E90FF;">[2024-04-29]</span>** One paper: [<span style="color: #2E8B57;">**ARN: Analogical Reasoning on Narratives**</span>](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00688/124260/ARN-Analogical-Reasoning-on-Narratives) has been accepted to [<span style="color: #8A2BE2;">**TACL**</span>](https://transacl.org/index.php/tacl)!
+- **<span style="color: #1E90FF;">[2023-11-28]</span>** One paper: [<span style="color: #2E8B57;">**FIRE: Food Image to REcipe Generation**</span>](https://openaccess.thecvf.com/content/WACV2024/html/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.html) has been accepted to [<span style="color: #8A2BE2;">**WACV 2024**</span>](https://wacv2024.thecvf.com/)!
+- **<span style="color: #1E90FF;">[2023-10-07]</span>** One first-authored paper: [<span style="color: #2E8B57;">**BRAINTEASER: Lateral Thinking Puzzles for Large Language Models**</span>](https://arxiv.org/abs/2310.05057) has been accepted to [<span style="color: #8A2BE2;">**EMNLP 2023**</span>](https://2023.emnlp.org/)!
+- **<span style="color: #1E90FF;">[2023-07-15]</span>** One first-authored paper: [<span style="color: #2E8B57;">**Transferring Procedural Knowledge across Commonsense Tasks**</span>](https://arxiv.org/abs/2304.13867) _(oral+poster)_ has been accepted to [<span style="color: #8A2BE2;">**ECAI 2023**</span>](https://ecai2023.eu/ECAI2023)!
+- **<span style="color: #1E90FF;">[2023-06-16]</span>** One first-authored paper: [<span style="color: #2E8B57;">**SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense**</span>](https://arxiv.org/abs/2404.16068) has been accepted to [<span style="color: #8A2BE2;">**SemEval 2024@NAACL**</span>](https://semeval.github.io/SemEval2024/cft)!
+- **<span style="color: #1E90FF;">[2023-01-14]</span>** One paper: [<span style="color: #2E8B57;">**TrafPS: A Shapley-based Visual Analytics Approach to Interpret Traffic**</span>](https://arxiv.org/abs/2404.16068) has been accepted to [<span style="color: #8A2BE2;">**CVMJ**</span>](https://www.editorialmanager.com/cvmj/default.aspx)!
+
 
 <!--
 - **[2024-10-07]** One first-authored [paper](https://arxiv.org/abs/2404.13591) has been accepted to [NeurIPS 2024](https://neurips.cc/)!
@@ -32,17 +43,6 @@ I was a research intern at <a href="https://www.hippocraticai.com/" style="displ
 - **[2023-06-16]** One first-authored [paper](https://arxiv.org/abs/2404.16068) have been accepted to [SemEval 2024@NAACL](https://semeval.github.io/SemEval2024/cft)!
 - **[2023-01-14]** One [paper](https://arxiv.org/abs/2404.16068) have been accepted to [CVMJ](https://www.editorialmanager.com/cvmj/default.aspx)!
 -->
-
-
-- **[2024-10-07]** One first-authored paper ([MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591)) has been accepted to [NeurIPS 2024](https://neurips.cc/)!
-- **[2024-09-23]** Our research is shared in this [BBC article](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind))!
-- **[2024-07-10]** One paper ([The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language Models](https://arxiv.org/abs/2401.12117)) has been accepted to [COLM 2024](https://colmweb.org/)!
-- **[2024-04-29]** One paper ([ARN: Analogical Reasoning on Narratives](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00688/124260/ARN-Analogical-Reasoning-on-Narratives)) has been accepted to [TACL](https://transacl.org/index.php/tacl)!
-- **[2023-11-28]** One paper ([FIRE: Food Image to REcipe Generation](https://openaccess.thecvf.com/content/WACV2024/html/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.html)) has been accepted to [WACV 2024](https://wacv2024.thecvf.com/)!
-- **[2023-10-07]** One first-authored paper ([BRAINTEASER: Lateral Thinking Puzzles for Large Language Models](https://arxiv.org/abs/2310.05057)) has been accepted to [EMNLP 2023](https://2023.emnlp.org/)!
-- **[2023-07-15]** One first-authored paper ([Transferring Procedural Knowledge across Commonsense Tasks](https://arxiv.org/abs/2304.13867) _oral+poster_) have been accepted to [ECAI 2023](https://ecai2023.eu/ECAI2023)!
-- **[2023-06-16]** One first-authored paper ([SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense](https://arxiv.org/abs/2404.16068)) have been accepted to [SemEval 2024@NAACL](https://semeval.github.io/SemEval2024/cft)!
-- **[2023-01-14]** One paper ([TrafPS: A Shapley-based Visual Analytics Approach to Interpret Traffic](https://arxiv.org/abs/2404.16068)) have been accepted to [CVMJ](https://www.editorialmanager.com/cvmj/default.aspx)!
 
 
 
