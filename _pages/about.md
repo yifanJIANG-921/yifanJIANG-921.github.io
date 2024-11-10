@@ -16,7 +16,7 @@ My primary research objective is to enhance the reasoning capabilities of AI sys
 
 -**How can we evaluate that models truly understand the answer, rather than getting it through hallucination?**: Whether models can demonstrate a robust and faithful understanding of their answers, providing explanations grounded in verifiable knowledge rather than memorizing training samples, fabricating responses or relying on spurious correlations.
 
-I was a research intern at <a href="https://www.hippocraticai.com/" style="display: inline-flex; align-items: center;"><img src="https://github.com/yifanJIANG-921/yifanJIANG-921.github.io/blob/master/assets/main-hippocratic-logo-full-color.jpg" alt="Hippocratic AI Logo" style="height: 1em; width: 1.5em; margin-right: 0.3em;">Hipporcratic AI</a> (2024 with [Subhabrata Mukherjee](https://subhomukherjee.com/) and [Kriti Aggarwal](https://www.linkedin.com/in/kriti-agg/))  
+I was a research intern at <a href="https://www.hippocraticai.com/" style="display: inline-flex; align-items: center;"><img src="https://github.com/yifanJIANG-921/yifanJIANG-921.github.io/blob/master/assets/main-hippocratic-logo-full-color.jpg" alt="Hippocratic AI Logo" style="height: 1em; width: 2.0em; margin-right: 0.3em;">Hipporcratic AI</a> (2024 with [Subhabrata Mukherjee](https://subhomukherjee.com/) and [Kriti Aggarwal](https://www.linkedin.com/in/kriti-agg/))  
 
 
 
