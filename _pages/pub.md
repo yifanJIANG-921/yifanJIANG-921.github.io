@@ -11,7 +11,7 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking</span>
   #### <span style="font-style: italic;"><em><strong>Yifan Jiang</strong></em>, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee</span>
-  ![RED QUEEN Image](../assets/paper_image/red_queen_image.png "RED QUEEN Paper")
+  ![RED QUEEN Image](../assets/paper_image/red_queen_image.png)
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
@@ -42,7 +42,7 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</span>
   #### <span style="font-style: italic;">Koen Kraaijveld, <strong>Yifan Jiang</strong>, Kaixin Ma, Filip Ilievski</span>
-  ![RED QUEEN Image](../assets/paper_image/red_queen_image.png "RED QUEEN Paper")
+  ![COLUMBUS_Image](../assets/paper_image/columbus_image.png)
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
