@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 You can download my CV here: [Yifan Jiang's Resume](../assets/Resume_yifan.pdf)
-======
+
 
