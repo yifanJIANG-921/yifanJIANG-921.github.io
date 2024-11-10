@@ -10,7 +10,7 @@ redirect_from:
 ## Preprint
 
 - ### <span style="color: #4682B4; font-weight: bold;">RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking</span>
-  #### <span style="font-style: italic;"><em><strong>Yifan Jiang</strong></em>, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee</span>
+   ***Yifan Jiang***, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee
   ![RED QUEEN Image](../assets/paper_image/red_queen_image.png)
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
