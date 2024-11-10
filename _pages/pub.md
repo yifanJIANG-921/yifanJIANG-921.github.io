@@ -11,7 +11,7 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking</span>
    ***Yifan Jiang***, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee
-  ![RED QUEEN Image](../assets/paper_image/red_queen_image.png)
+  <img src="../assets/paper_image/red_queen_image.png" alt="RED QUEEN Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
@@ -37,12 +37,12 @@ redirect_from:
       performance across standard benchmarks.
     </p>
   </details>  
-  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #1E90FF;">Code</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #1E90FF;">Project Website</span>](https://redqueen1011.github.io/)
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #1E90FF;">Github</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #1E90FF;">Project Website</span>](https://redqueen1011.github.io/)
 
 
 - ### <span style="color: #4682B4; font-weight: bold;">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</span>
   Koen Kraaijveld, ***Yifan Jiang***, Kaixin Ma, Filip Ilievski
-  ![COLUMBUS_Image](../assets/paper_image/columbus_image.png)
+  <img src="../assets/paper_image/columbus_image.png" alt="COLUMBUS_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
