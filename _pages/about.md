@@ -35,6 +35,7 @@ I was a research intern at <a href="https://www.hippocraticai.com/" style="displ
 
 
 - **[2024-10-07]** One first-authored paper ([MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning](https://arxiv.org/abs/2404.13591)) has been accepted to [NeurIPS 2024](https://neurips.cc/)!
+- **[2024-09-23]** Our research is shared in this [BBC article](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind))!
 - **[2024-07-10]** One paper ([The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language Models](https://arxiv.org/abs/2401.12117)) has been accepted to [COLM 2024](https://colmweb.org/)!
 - **[2024-04-29]** One paper ([ARN: Analogical Reasoning on Narratives](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00688/124260/ARN-Analogical-Reasoning-on-Narratives)) has been accepted to [TACL](https://transacl.org/index.php/tacl)!
 - **[2023-11-28]** One paper ([FIRE: Food Image to REcipe Generation](https://openaccess.thecvf.com/content/WACV2024/html/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.html)) has been accepted to [WACV 2024](https://wacv2024.thecvf.com/)!
