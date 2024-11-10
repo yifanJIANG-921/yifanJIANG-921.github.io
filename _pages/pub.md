@@ -41,6 +41,22 @@ redirect_from:
 [<span style="color: #4682B4;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #4682B4;">Code</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #4682B4;">Website</span>](https://redqueen1011.github.io/)  
 
 
+- ### <span style="color: #2E8B57; font-weight: bold;">RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking</span>  
+  #### <span style="font-style: italic;">Yifan Jiang, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee</span>  
+![RED QUEEN Image](../assets/paper_image/red_queen_image.png "RED QUEEN Paper")
+
+---
+
+<details style="margin-left: 20px; padding: 5px;">
+  <summary style="font-weight: bold; color: #B22222; cursor: pointer;">Abstract</summary>
+  <p style="margin-top: 10px; padding-left: 15px;">
+    This is where you would place the abstract text for the paper. It will appear when the user clicks "Abstract."
+  </p>
+</details>  
+
+[<span style="color: #4682B4;">Media Coverage 1</span>](#) | [<span style="color: #4682B4;">Media Coverage 2</span>](#) | [<span style="color: #4682B4;">Media Coverage 3</span>](#)
+
+
 ---
 
 ## 2024
