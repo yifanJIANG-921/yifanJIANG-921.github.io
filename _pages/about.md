@@ -10,11 +10,11 @@ I am Yifan Jiang, a second-year Ph.D. student in Computer Science at the [Univer
 
 My primary research objective is to enhance the reasoning capabilities of AI systems in order to improve user interactions and move closer to the development of Artificial General Intelligence (AGI). I aim to develop models that emulate the diverse reasoning patterns found in human cognition, such as commonsense reasoning, abstract reasoning, analogical reasoning, and social intelligence. To achieve this, my research revolves around addressing three key questions:
 
--**How do models understand and interpret complex inputs?**： Whether models are able to distinguish useful information from noise or irrelevant data, enabling them to focus on the most relevant signals for accurate decision-making.
+- **How do models understand and interpret complex inputs?**： Whether models are able to distinguish useful information from noise or irrelevant data, enabling them to focus on the most relevant signals for accurate decision-making.
 
--**How do models reason and generate answers based on given conditions or contexts?**: Whether models can adapt their learned knowledge to different types of conditions: familiar scenarios (Known Known), unexpected situations (Known Unknown), and entirely novel contexts (Unknown Unknown) that may require flexible reasoning or generalization.
+- **How do models reason and generate answers based on given conditions or contexts?**: Whether models can adapt their learned knowledge to different types of conditions: familiar scenarios (Known Known), unexpected situations (Known Unknown), and entirely novel contexts (Unknown Unknown) that may require flexible reasoning or generalization.
 
--**How can we evaluate that models truly understand the answer, rather than getting it through hallucination?**: Whether models can demonstrate a robust and faithful understanding of their answers, providing explanations grounded in verifiable knowledge rather than memorizing training samples, fabricating responses or relying on spurious correlations.
+- **How can we evaluate that models truly understand the answer, rather than getting it through hallucination?**: Whether models can demonstrate a robust and faithful understanding of their answers, providing explanations grounded in verifiable knowledge rather than memorizing training samples, fabricating responses or relying on spurious correlations.
 
 I was a research intern at [Hipporcratic AI](https://www.hippocraticai.com/) (2024 with [Subhabrata Mukherjee](https://subhomukherjee.com/) and [Kriti Aggarwal](https://www.linkedin.com/in/kriti-agg/))
 
