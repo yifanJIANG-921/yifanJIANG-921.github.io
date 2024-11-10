@@ -90,6 +90,18 @@ redirect_from:
   </details>  
   [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2404.13591) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/1171-jpg/MARVEL_AVR) | [<span style="color: #1E90FF;">Project Website</span>](https://marvel770.github.io/)  | [<span style="color: #1E90FF;">Hugging Face</span>](https://huggingface.co/datasets/kianasun/MARVEL)  
 
+- ### <span style="color: #4682B4; font-weight: bold;">The curious case of nonverbal abstract reasoning with multi-modal large language models</span>
+  *COLM*<br>
+  Kian Ahrabian*, Zhivar Sourati*, Kexuan Sun*, Jiarui Zhang, ***Yifan Jiang***, Fred Morstatter, Jay Pujara
+    <img src="../assets/paper_image/colm_image_1.png" alt="COLM_Image_1" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      While large language models (LLMs) are still being adopted to new domains and utilized in novel applications, we are experiencing an influx of the new generation of foundation models, namely multi-modal large language models (MLLMs). These models integrate verbal and visual information, opening new possibilities to demonstrate more complex reasoning abilities at the intersection of the two modalities. However, despite the revolutionizing prospect of MLLMs, our understanding of their reasoning abilities is limited. In this study, we assess the nonverbal abstract reasoning abilities of open-source and closed-source MLLMs using variations of Raven's Progressive Matrices. Our experiments expose the difficulty of solving such problems while showcasing the immense gap between open-source and closed-source models. We also reveal critical shortcomings with individual visual and textual modules, subjecting the models to low-performance ceilings. Finally, to improve MLLMs' performance, we experiment with various methods, such as Chain-of-Thought prompting, resulting in a significant (up to 100%) boost in performance.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2401.12117) 
+
 - ### <span style="color: #4682B4; font-weight: bold;">ARN: Analogical Reasoning on Narratives</span><br>
   *TACL*<br>
   Zhivar Sourati, Filip Ilievski, Pia Sommerauer, ***Yifan Jiang***
