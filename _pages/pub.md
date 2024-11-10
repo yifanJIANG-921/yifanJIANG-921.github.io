@@ -41,7 +41,7 @@ redirect_from:
 
 
 - ### <span style="color: #4682B4; font-weight: bold;">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</span>
-  Koen Kraaijveld, ***Yifan Jiang***, Kaixin Ma, Filip Ilievski
+    Koen Kraaijveld, ***Yifan Jiang***, Kaixin Ma, Filip Ilievski
   <img src="../assets/paper_image/columbus_image.png" alt="COLUMBUS_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
@@ -55,7 +55,7 @@ redirect_from:
       descriptions but struggle to self-generate such representations at the right level of abstraction.
     </p>
   </details>  
-  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2409.04053) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/koen-47/COLUMBUS) | [<span style="color: #1E90FF;">Notebook</span>](https://github.com/koen-47/COLUMBUS/tree/main/notebooks)| [<span style="color: #1E90FF;">Project Website</span>](https://columbus-vqa.github.io/)
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2409.04053) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/koen-47/COLUMBUS) | [<span style="color: #1E90FF;">Notebook</span>](https://github.com/koen-47/COLUMBUS/tree/main/notebooks)| [<span style="color: #1E90FF;">Project Website</span>](https://columbus-vqa.github.io/) | [<span style="color: #1E90FF;">Media Coverage</span>](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind)
 
 
 
