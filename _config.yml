@@ -24,7 +24,7 @@ author:
   avatar           : "self-photo.png"
   name             : "Yifan Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "LA,CA,USA"
   employer         : "University of Southern California"
   URI              : "https://yifanjiang-921.github.io/"
