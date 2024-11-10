@@ -63,6 +63,18 @@ redirect_from:
 
 ## 2024
 
+- ### <span style="color: #4682B4; font-weight: bold;">ARN: Analogical Reasoning on Narratives</span>
+    Zhivar Sourati, Filip Ilievski, Pia Sommerauer, ***Yifan Jiang***
+  *TACL*
+  <img src="../assets/paper_image/arn_image.png" alt="ARN_Image" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      As a core cognitive skill that enables the transferability of information across domains, analogical reasoning has been extensively studied for both humans and computational models. However, while cognitive theories of analogy often focus on narratives and study the distinction between surface, relational, and system similarities, existing work in natural language processing has a narrower focus as far as relational analogies between word pairs. This gap brings a natural question: can state-of-the-art large language models (LLMs) detect system analogies between narratives? To gain insight into this question and extend word-based relational analogies to relational system analogies, we devise a comprehensive computational framework that operationalizes dominant theories of analogy, using narrative elements to create surface and system mappings. Leveraging the interplay between these mappings, we create a binary task and benchmark for Analogical Reasoning on Narratives (ARN), covering four categories of far (cross-domain)/near (within-domain) analogies and disanalogies. We show that while all LLMs can largely recognize near analogies, even the largest ones struggle with far analogies in a zero-shot setting, with GPT4.0 scoring below random. Guiding the models through solved examples and Chain-of-Thought reasoning enhances their analogical reasoning ability. Yet, since even in the few-shot setting, the best model only performs halfway between random and humans, ARN opens exciting directions for computational analogical reasoners.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://watermark.silverchair.com/tacl_a_00688.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0kwggNFBgkqhkiG9w0BBwagggM2MIIDMgIBADCCAysGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmsJwVnMxmrOhl3kRAgEQgIIC_BhUDBVHzgjmnETwcxlOCsdfKu-bO54lCB9GqGpeXXpWmUnryHCb0czjbAD3dc4bNc93xNaZYFzh1FHrWFAHKdvVUw1-Xx7DczHUlaAYTUDyPu5qPzEqqpKu3HK1W2eO4qqoKaR2VqLdm4xnPFg0x5JP-IZmLj5pS_X4n4n_Nbj8R_6SvF8_aDewRcXqXyAf_GlNcVb704T5Z23YHNtjNwapLl18YHGU2qX0PV-BJuCfOMqo0W2kG3Bfophe0V2OaSrUCvc--IxbPtx5E2cPeJJRpj9yh8G8D52Mdrzaa4sUdJiS-89HYEOAuFXB8xj3yY1ogOHrqDWNujI4vdfy9R6Z4gcOSLKrAazQiX1vLVJDR_FBSNmcRmmS8SYDPBf8q_BdrWN26_7tuxl-FpOIf4huH8KLaWd4jmbCb6eXlYxWxbSt9nUBIu_rQVZA5diDBCNlG2_bELMDoIevLqf98OIvIIy_Vvekh5sKfarut_hw6u_nXXVjfuutFiyleoKL4cKeHBIX6A1PDK6Jl14Z4K2o2ZgWnJ7gyprvS3a0XdF2-ncTzZWR72Nd_6hs2SvRGhkCdu_r7tPPJsAdfgMvFj5UtS14M9c-jL-nGR6sbvF6TJ_1IPbictM0fjNC7aZIPTPPgg2yjB3nO_0tjvGvIyy0ZSvyUi2omLL332qFcoYFaOOhjgIdZUjaA2y5cMuEki-tztsQLAJWTL49nT3Q6ApFNZaJNfp8mEXtFP-53R_nxjFc2qgUWlsu9K1xVoC95F80iXCVtspLfk6f1onn-LiuwiL0Z9jehR1_MdJkFVccR_3ObIIksNBZjRFULplDog9YKAiJkvKGoX8JJeHp0OAMJgTsA8cn6kCrLkzrydzY3gWcg-iIdysxTtcfKSNVe77k-6itiv-OTZ1GZiARXmsHBYLWMzrMt3Be-T5h_5wj0yB87WBKCmdhKyC3Od8LCAzITqpLesAI1WRp6BjUrPn3R__46wg2lXWzX1a4RBpq6xwCRSNVolejV51c) | [<span style="color: #1E90FF;">Data</span>](https://zenodo.org/records/11044026) 
+
 ---
 
 ## 2023
