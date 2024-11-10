@@ -81,7 +81,7 @@ redirect_from:
     geometric and abstract shapes, and five different task configurations. To inspect whether the model accuracy is grounded in perception and reasoning,
     MARVEL complements the general AVR question with perception questions in a hierarchical evaluation framework. We conduct comprehensive
     experiments on MARVEL with nine representative MLLMs in zero-shot
-    and few-shot settings. Our experiments reveal that all models show nearrandom performance on the AVR question, with significant performance
+    and few-shot settings. Our experiments reveal that all models show near-random performance on the AVR question, with significant performance
     gaps (40%) compared to humans across all patterns and task configurations. Further analysis of perception questions reveals that MLLMs struggle
     to comprehend the visual features (near-random performance) and even
     count the panels in the puzzle (<45%), hindering their ability for abstract
@@ -102,18 +102,18 @@ redirect_from:
   </details>  
   [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2401.12117) 
 
-- ### <span style="color: #4682B4; font-weight: bold;">ARN: Analogical Reasoning on Narratives</span><br>
-  *TACL*<br>
-  Zhivar Sourati, Filip Ilievski, Pia Sommerauer, ***Yifan Jiang***
-  <img src="../assets/paper_image/arn_image.png" alt="ARN_Image" style="width: 500px;">
+
+- ### <span style="color: #4682B4; font-weight: bold;">Fire: Food image to recipe generation</span>
+  *WACV*<br>
+   Prateek Chhikara, Dhiraj Chaurasia, ***Yifan Jiang***, Omkar Masur, Filip Ilievski;
+  <img src="../assets/paper_image/fire_image.png" alt="FIRE_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
-      As a core cognitive skill that enables the transferability of information across domains, analogical reasoning has been extensively studied for both humans and computational models. However, while cognitive theories of analogy often focus on narratives and study the distinction between surface, relational, and system similarities, existing work in natural language processing has a narrower focus as far as relational analogies between word pairs. This gap brings a natural question: can state-of-the-art large language models (LLMs) detect system analogies between narratives? To gain insight into this question and extend word-based relational analogies to relational system analogies, we devise a comprehensive computational framework that operationalizes dominant theories of analogy, using narrative elements to create surface and system mappings. Leveraging the interplay between these mappings, we create a binary task and benchmark for Analogical Reasoning on Narratives (ARN), covering four categories of far (cross-domain)/near (within-domain) analogies and disanalogies. We show that while all LLMs can largely recognize near analogies, even the largest ones struggle with far analogies in a zero-shot setting, with GPT4.0 scoring below random. Guiding the models through solved examples and Chain-of-Thought reasoning enhances their analogical reasoning ability. Yet, since even in the few-shot setting, the best model only performs halfway between random and humans, ARN opens exciting directions for computational analogical reasoners.
+  Food computing has emerged as a prominent multidisciplinary field of research in recent years. An ambitious goal of food computing is to develop end-to-end intelligent systems capable of autonomously producing recipe information for a food image. Current image-to-recipe methods are retrieval-based and their success depends heavily on the dataset size and diversity, as well as the quality of learned embeddings. Meanwhile, the emergence of powerful attention-based vision and language models presents a promising avenue for accurate and generalizable recipe generation, which has yet to be extensively explored. This paper proposes FIRE, a novel multimodal methodology tailored to recipe generation in the food computing domain, which generates the food title, ingredients, and cooking instructions based on input food images. FIRE leverages the BLIP model to generate titles, utilizes a Vision Transformer with a decoder for ingredient extraction, and employs the T5 model to generate recipes incorporating titles and ingredients as inputs. We showcase two practical applications that can benefit from integrating FIRE with large language model prompting: recipe customization to fit recipes to user preferences and recipe-to-code transformation to enable automated cooking processes. Our experimental findings validate the efficacy of our proposed approach, underscoring its potential for future advancements and widespread adoption in food computing.
     </p>
   </details>  
-  [<span style="color: #1E90FF;">Paper</span>](https://watermark.silverchair.com/tacl_a_00688.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0kwggNFBgkqhkiG9w0BBwagggM2MIIDMgIBADCCAysGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmsJwVnMxmrOhl3kRAgEQgIIC_BhUDBVHzgjmnETwcxlOCsdfKu-bO54lCB9GqGpeXXpWmUnryHCb0czjbAD3dc4bNc93xNaZYFzh1FHrWFAHKdvVUw1-Xx7DczHUlaAYTUDyPu5qPzEqqpKu3HK1W2eO4qqoKaR2VqLdm4xnPFg0x5JP-IZmLj5pS_X4n4n_Nbj8R_6SvF8_aDewRcXqXyAf_GlNcVb704T5Z23YHNtjNwapLl18YHGU2qX0PV-BJuCfOMqo0W2kG3Bfophe0V2OaSrUCvc--IxbPtx5E2cPeJJRpj9yh8G8D52Mdrzaa4sUdJiS-89HYEOAuFXB8xj3yY1ogOHrqDWNujI4vdfy9R6Z4gcOSLKrAazQiX1vLVJDR_FBSNmcRmmS8SYDPBf8q_BdrWN26_7tuxl-FpOIf4huH8KLaWd4jmbCb6eXlYxWxbSt9nUBIu_rQVZA5diDBCNlG2_bELMDoIevLqf98OIvIIy_Vvekh5sKfarut_hw6u_nXXVjfuutFiyleoKL4cKeHBIX6A1PDK6Jl14Z4K2o2ZgWnJ7gyprvS3a0XdF2-ncTzZWR72Nd_6hs2SvRGhkCdu_r7tPPJsAdfgMvFj5UtS14M9c-jL-nGR6sbvF6TJ_1IPbictM0fjNC7aZIPTPPgg2yjB3nO_0tjvGvIyy0ZSvyUi2omLL332qFcoYFaOOhjgIdZUjaA2y5cMuEki-tztsQLAJWTL49nT3Q6ApFNZaJNfp8mEXtFP-53R_nxjFc2qgUWlsu9K1xVoC95F80iXCVtspLfk6f1onn-LiuwiL0Z9jehR1_MdJkFVccR_3ObIIksNBZjRFULplDog9YKAiJkvKGoX8JJeHp0OAMJgTsA8cn6kCrLkzrydzY3gWcg-iIdysxTtcfKSNVe77k-6itiv-OTZ1GZiARXmsHBYLWMzrMt3Be-T5h_5wj0yB87WBKCmdhKyC3Od8LCAzITqpLesAI1WRp6BjUrPn3R__46wg2lXWzX1a4RBpq6xwCRSNVolejV51c) | [<span style="color: #1E90FF;">Data</span>](https://zenodo.org/records/11044026) 
-
+  [<span style="color: #1E90FF;">Paper</span>](https://openaccess.thecvf.com/content/WACV2024/html/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.html) 
 
 - ### <span style="color: #4682B4; font-weight: bold;">Semeval-2024 task 9: Brainteaser: A novel task defying common sense</span>
   *Semeval@NAACL*<br>
@@ -129,4 +129,59 @@ redirect_from:
 ---
 
 ## 2023
+
+- ### <span style="color: #4682B4; font-weight: bold;">BRAINTEASER: Lateral Thinking Puzzles for Large Language Model</span>
+  *EMNLP*<br>
+  ***Yifan Jiang***, Filip Ilievski, Kaixin Ma, Sourati Zhivar
+  <img src="../assets/paper_image/brain_teaser_image.png" alt="BRAIN_TEASER_Image" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+  The success of language models has inspired the NLP community to attend to tasks that require implicit and complex reasoning, relying on human-like commonsense mechanisms. While such vertical thinking tasks have been relatively popular, lateral thinking puzzles have received little attention. To bridge this gap, we devise BRAINTEASER: a multiple-choice Question Answering task designed to test the model's ability to exhibit lateral thinking and defy default commonsense associations. We design a three-step procedure for creating the first lateral thinking benchmark, consisting of data collection, distractor generation, and generation of adversarial examples, leading to 1,100 puzzles with high-quality annotations. To assess the consistency of lateral reasoning by models, we enrich BRAINTEASER based on a semantic and contextual reconstruction of its questions. Our experiments with state-of-the-art instruction- and commonsense language models reveal a significant gap between human and model performance, which is further widened when consistency across adversarial formats is considered. We make all of our code and data available to stimulate work on developing and evaluating lateral thinking models.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://aclanthology.org/2023.emnlp-main.885/) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/1171-jpg/BrainTeaser) 
+  
+- ### <span style="color: #4682B4; font-weight: bold;">Transferring Procedural Knowledge across Commonsense Tasks</span>
+  *Semeval@NAACL*<br>
+  ***Yifan Jiang***, Filip Ilievski, Kaixin Ma
+  <img src="../assets/paper_image/leap_image.png" alt="LEAP_Image" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+    Stories about everyday situations are an essential part of human communication, motivating the need to develop AI agents that can reliably understand these stories. Despite the long list of supervised methods for story completion and procedural understanding, current AI fails to generalize its procedural reasoning to unseen stories. This paper is based on the hypothesis that the generalization can be improved by associating downstream prediction with fine-grained modeling and the abstraction of procedural knowledge in stories. To test this hypothesis, we design LEAP: a comprehensive framework that reasons over stories by jointly considering their (1) overall plausibility, (2) conflict sentence pairs, and (3) participant physical states. LEAP integrates state-of-the-art modeling architectures, training regimes, and augmentation strategies based on natural and synthetic stories. To address the lack of densely annotated training data on participants and their physical states, we devise a robust automatic labeler based on semantic parsing and few-shot prompting with large language models. Our experiments with in- and out-of-domain tasks reveal insights into the interplay of architectures, training regimes, and augmentation strategies. LEAP’s labeler consistently improves performance on out-of-domain datasets, while our case studies show that the dense annotation supports explainability.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA230391) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/1171-jpg/LEAP) 
+
+## Journal Articles
+
+
+- ### <span style="color: #4682B4; font-weight: bold;">ARN: Analogical Reasoning on Narratives</span><br>
+  *TACL*<br>
+  Zhivar Sourati, Filip Ilievski, Pia Sommerauer, ***Yifan Jiang***
+  <img src="../assets/paper_image/arn_image.png" alt="ARN_Image" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      As a core cognitive skill that enables the transferability of information across domains, analogical reasoning has been extensively studied for both humans and computational models. However, while cognitive theories of analogy often focus on narratives and study the distinction between surface, relational, and system similarities, existing work in natural language processing has a narrower focus as far as relational analogies between word pairs. This gap brings a natural question: can state-of-the-art large language models (LLMs) detect system analogies between narratives? To gain insight into this question and extend word-based relational analogies to relational system analogies, we devise a comprehensive computational framework that operationalizes dominant theories of analogy, using narrative elements to create surface and system mappings. Leveraging the interplay between these mappings, we create a binary task and benchmark for Analogical Reasoning on Narratives (ARN), covering four categories of far (cross-domain)/near (within-domain) analogies and disanalogies. We show that while all LLMs can largely recognize near analogies, even the largest ones struggle with far analogies in a zero-shot setting, with GPT4.0 scoring below random. Guiding the models through solved examples and Chain-of-Thought reasoning enhances their analogical reasoning ability. Yet, since even in the few-shot setting, the best model only performs halfway between random and humans, ARN opens exciting directions for computational analogical reasoners.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://watermark.silverchair.com/tacl_a_00688.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0kwggNFBgkqhkiG9w0BBwagggM2MIIDMgIBADCCAysGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmsJwVnMxmrOhl3kRAgEQgIIC_BhUDBVHzgjmnETwcxlOCsdfKu-bO54lCB9GqGpeXXpWmUnryHCb0czjbAD3dc4bNc93xNaZYFzh1FHrWFAHKdvVUw1-Xx7DczHUlaAYTUDyPu5qPzEqqpKu3HK1W2eO4qqoKaR2VqLdm4xnPFg0x5JP-IZmLj5pS_X4n4n_Nbj8R_6SvF8_aDewRcXqXyAf_GlNcVb704T5Z23YHNtjNwapLl18YHGU2qX0PV-BJuCfOMqo0W2kG3Bfophe0V2OaSrUCvc--IxbPtx5E2cPeJJRpj9yh8G8D52Mdrzaa4sUdJiS-89HYEOAuFXB8xj3yY1ogOHrqDWNujI4vdfy9R6Z4gcOSLKrAazQiX1vLVJDR_FBSNmcRmmS8SYDPBf8q_BdrWN26_7tuxl-FpOIf4huH8KLaWd4jmbCb6eXlYxWxbSt9nUBIu_rQVZA5diDBCNlG2_bELMDoIevLqf98OIvIIy_Vvekh5sKfarut_hw6u_nXXVjfuutFiyleoKL4cKeHBIX6A1PDK6Jl14Z4K2o2ZgWnJ7gyprvS3a0XdF2-ncTzZWR72Nd_6hs2SvRGhkCdu_r7tPPJsAdfgMvFj5UtS14M9c-jL-nGR6sbvF6TJ_1IPbictM0fjNC7aZIPTPPgg2yjB3nO_0tjvGvIyy0ZSvyUi2omLL332qFcoYFaOOhjgIdZUjaA2y5cMuEki-tztsQLAJWTL49nT3Q6ApFNZaJNfp8mEXtFP-53R_nxjFc2qgUWlsu9K1xVoC95F80iXCVtspLfk6f1onn-LiuwiL0Z9jehR1_MdJkFVccR_3ObIIksNBZjRFULplDog9YKAiJkvKGoX8JJeHp0OAMJgTsA8cn6kCrLkzrydzY3gWcg-iIdysxTtcfKSNVe77k-6itiv-OTZ1GZiARXmsHBYLWMzrMt3Be-T5h_5wj0yB87WBKCmdhKyC3Od8LCAzITqpLesAI1WRp6BjUrPn3R__46wg2lXWzX1a4RBpq6xwCRSNVolejV51c) | [<span style="color: #1E90FF;">Data</span>](https://zenodo.org/records/11044026) 
+
+
+- ### <span style="color: #4682B4; font-weight: bold;">TrafPS: A shapley-based visual analytics approach to interpret traffic</span>
+  *CVMJ*<br>
+  Zezheng Feng, ***Yifan Jiang***, Hongjun Wang, Zipei Fan, Yuxin Ma, Shuang-Hua Yang, Huamin Qu, Xuan Song
+  <img src="../assets/paper_image/trafps_image.png" alt="TRAFPS_Image" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+    Recent achievements in deep learning (DL) have demonstrated its potential in predicting traffic flows. Such predictions are beneficial for understanding the situation and making traffic control decisions. However, most state-of-the-art DL models are considered “black boxes” with little to no transparency of the underlying mechanisms for end users. Some previous studies attempted to “open the black box” and increase the interpretability of generated predictions. However, handling complex models on large-scale spatiotemporal data and discovering salient spatial and temporal patterns that significantly influence traffic flow remain challenging. To overcome these challenges, we present TrafPS, a visual analytics approach for interpreting traffic prediction outcomes to support decision-making in traffic management and urban planning. The measurements region SHAP and trajectory SHAP are proposed to quantify the impact of flow patterns on urban traffic at different levels. Based on the task requirements from domain experts, we employed an interactive visual interface for the multi-aspect exploration and analysis of significant flow patterns. Two real-world case studies demonstrate the effectiveness of TrafPS in identifying key routes and providing decision-making support for urban planning.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://link.springer.com/article/10.1007/s41095-023-0351-7) 
+
+
+
 
