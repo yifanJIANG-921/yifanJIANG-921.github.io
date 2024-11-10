@@ -38,7 +38,8 @@ redirect_from:
     </p>
   </details>  
   
- **[Paper](https://arxiv.org/pdf/2409.17458)** | **[Code](https://github.com/kriti-hippo/red_queen)** | **[Website](https://redqueen1011.github.io/)**
+[<span style="color: #4682B4;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #4682B4;">Code</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #4682B4;">Website</span>](https://redqueen1011.github.io/)  
+
 
 ---
 
