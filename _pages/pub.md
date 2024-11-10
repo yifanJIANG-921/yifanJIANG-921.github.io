@@ -143,7 +143,7 @@ redirect_from:
   [<span style="color: #1E90FF;">Paper</span>](https://aclanthology.org/2023.emnlp-main.885/) | [<span style="color: #1E90FF;">GitHub</span>](https://github.com/1171-jpg/BrainTeaser) 
   
 - ### <span style="color: #4682B4; font-weight: bold;">Transferring Procedural Knowledge across Commonsense Tasks</span>
-  *Semeval@NAACL*<br>
+  *ECAI*<br>
   ***Yifan Jiang***, Filip Ilievski, Kaixin Ma
   <img src="../assets/paper_image/leap_image.png" alt="LEAP_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
