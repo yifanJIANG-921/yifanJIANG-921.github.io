@@ -65,7 +65,8 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning</span>
   *NeurIPS DB track*<br>
-   ***Yifan Jiang***\*, Jiarui Zhang*, Kexuan Sun*, Zhivar Sourati, Kian Ahrabian, Kaixin Ma, Filip Ilievski, Jay Pujara
+   ***Yifan Jiang***\*, Jiarui Zhang*, Kexuan Sun*, Zhivar Sourati, <be>
+   Kian Ahrabian, Kaixin Ma, Filip Ilievski, Jay Pujara <br>
   <img src="../assets/paper_image/marvel_image.png" alt="MARVEL_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
@@ -92,7 +93,8 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">The curious case of nonverbal abstract reasoning with multi-modal large language models</span>
   *COLM*<br>
-  Kian Ahrabian*, Zhivar Sourati*, Kexuan Sun*, Jiarui Zhang, ***Yifan Jiang***, Fred Morstatter, Jay Pujara
+  Kian Ahrabian*, Zhivar Sourati*, Kexuan Sun*, Jiarui Zhang, <br>
+  ***Yifan Jiang***, Fred Morstatter, Jay Pujara<br>
     <img src="../assets/paper_image/colm_image_1.png" alt="COLM_Image_1" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
@@ -172,7 +174,8 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">TrafPS: A shapley-based visual analytics approach to interpret traffic</span>
   *CVMJ*<br>
-  Zezheng Feng, ***Yifan Jiang***, Hongjun Wang, Zipei Fan, Yuxin Ma, Shuang-Hua Yang, Huamin Qu, Xuan Song
+  Zezheng Feng, ***Yifan Jiang***, Hongjun Wang, Zipei Fan,<br>
+  Yuxin Ma, Shuang-Hua Yang, Huamin Qu, Xuan Song<br>
   <img src="../assets/paper_image/trafps_image.png" alt="TRAFPS_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
