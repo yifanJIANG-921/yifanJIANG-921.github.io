@@ -65,7 +65,7 @@ redirect_from:
 
 - ### <span style="color: #4682B4; font-weight: bold;">MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning</span>
   *NeurIPS DB track*<br>
-   ***Yifan Jiang***\*, Jiarui Zhang*, Kexuan Sun*, Zhivar Sourati, <br>
+   ***Yifan Jiang***\*, Jiarui Zhang\*, Kexuan Sun\*, Zhivar Sourati, <br>
    Kian Ahrabian, Kaixin Ma, Filip Ilievski, Jay Pujara <br>
   <img src="../assets/paper_image/marvel_image.png" alt="MARVEL_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
