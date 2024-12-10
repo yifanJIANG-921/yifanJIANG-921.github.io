@@ -22,7 +22,6 @@ I was a research intern at <a href="https://www.hippocraticai.com/" style="displ
 
 ## <span style="color: #4682B4;">News</span>
 - **<span style="color: #1E90FF;">[2024-12-10]</span>** One paper: [<span style="color: #2E8B57;">**COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes**</span>](https://arxiv.org/abs/2409.04053) has been accepted to [<span style="color: #8A2BE2;">**AAAI 2025**</span>](https://aaai.org/conference/aaai/aaai-25/)!
-
 - **<span style="color: #1E90FF;">[2024-10-07]</span>** One first-authored paper: [<span style="color: #2E8B57;">**MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning**</span>](https://arxiv.org/abs/2404.13591) has been accepted to [<span style="color: #8A2BE2;">**NeurIPS 2024**</span>](https://neurips.cc/)!
 - **<span style="color: #1E90FF;">[2024-09-23]</span>** Our research is highlighted in this [<span style="color: #FF4500;">**BBC article**</span>](https://www.bbc.com/future/article/20240912-what-riddles-teach-us-about-the-human-mind)!
 - **<span style="color: #1E90FF;">[2024-07-10]</span>** One paper: [<span style="color: #2E8B57;">**The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language Models**</span>](https://arxiv.org/abs/2401.12117) has been accepted to [<span style="color: #8A2BE2;">**COLM 2024**</span>](https://colmweb.org/)!
