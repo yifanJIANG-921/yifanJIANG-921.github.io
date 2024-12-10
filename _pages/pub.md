@@ -39,9 +39,13 @@ redirect_from:
   </details>  
   [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #1E90FF;">Github</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #1E90FF;">Project Website</span>](https://redqueen1011.github.io/)
 
+---
+
+## 2025
 
 - ### <span style="color: #4682B4; font-weight: bold;">COLUMBUS: Evaluating COgnitive Lateral Understanding through Multiple-choice reBUSes</span>
-    Koen Kraaijveld, ***Yifan Jiang***, Kaixin Ma, Filip Ilievski
+  *AAAI*<br>
+    Koen Kraaijveld, ***Yifan Jiang***, Kaixin Ma, Filip Ilievski <br>
   <img src="../assets/paper_image/columbus_image.png" alt="COLUMBUS_Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
