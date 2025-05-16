@@ -8,10 +8,19 @@ redirect_from:
 ---
 
 ## Preprint
-
+- ### <span style="color: #4682B4; font-weight: bold;">A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment</span>
+  <img src="../assets/paper_image/Agent.png" alt="Full_stack" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      The remarkable success of Large Language Models (LLMs) has illuminated a promising pathway toward achieving Artificial General Intelligence for both academic and industrial communities, owing to their unprecedented performance across various applications. As LLMs continue to gain prominence in both research and commercial domains, their security and safety implications have become a growing concern, not only for researchers and corporations but also for every nation. Currently, existing surveys on LLM safety primarily focus on specific stages of the LLM lifecycle, e.g., deployment phase or fine-tuning phase, lacking a comprehensive understanding of the entire "lifechain" of LLMs. To address this gap, this paper introduces, for the first time, the concept of "full-stack" safety to systematically consider safety issues throughout the entire process of LLM training, deployment, and eventual commercialization. Compared to the off-the-shelf LLM safety surveys, our work demonstrates several distinctive advantages: (I) Comprehensive Perspective. We define the complete LLM lifecycle as encompassing data preparation, pre-training, post-training, deployment and final commercialization. To our knowledge, this represents the first safety survey to encompass the entire lifecycle of LLMs. (II) Extensive Literature Support. Our research is grounded in an exhaustive review of over 800+ papers, ensuring comprehensive coverage and systematic organization of security issues within a more holistic understanding. (III) Unique Insights. Through systematic literature analysis, we have developed reliable roadmaps and perspectives for each chapter. Our work identifies promising research directions, including safety in data generation, alignment techniques, model editing, and LLM-based agent systems. These insights provide valuable guidance for researchers pursuing future work in this field.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2504.15585) 
+  
 - ### <span style="color: #4682B4; font-weight: bold;">Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation</span>
    Simin Chen, Yiming Chen, Zexin Li, ***Yifan Jiang***, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray
-  <img src="../assets/paper_image/red_queen_image.png" alt="RED QUEEN Image" style="width: 500px;">
+  <img src="../assets/paper_image/data_contamination.jpg" alt="Data contamination Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
