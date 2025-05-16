@@ -9,35 +9,16 @@ redirect_from:
 
 ## Preprint
 
-- ### <span style="color: #4682B4; font-weight: bold;">RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking</span>
-   ***Yifan Jiang***, Kriti Aggarwal, Tanmay Laud, Kashif Munir, Jay Pujara, Subhabrata Mukherjee
+- ### <span style="color: #4682B4; font-weight: bold;">Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation</span>
+   Simin Chen, Yiming Chen, Zexin Li, ***Yifan Jiang***, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray
   <img src="../assets/paper_image/red_queen_image.png" alt="RED QUEEN Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
-      The rapid progress of Large Language Models (LLMs) has opened up new opportunities across various domains and applications; yet it also presents challenges
-      related to potential misuse. To mitigate such risks, red teaming has been employed
-      as a proactive security measure to probe language models for harmful outputs via
-      jailbreak attacks. However, current jailbreak attack approaches are single-turn with
-      explicit malicious queries that do not fully capture the complexity of real-world
-      interactions. In reality, users can engage in multi-turn interactions with LLM-based
-      chat assistants, allowing them to conceal their true intentions in a more covert
-      manner. To bridge this gap, we, first, propose a new jailbreak approach, RED
-      QUEEN ATTACK. This method constructs a multi-turn scenario, concealing the
-      malicious intent under the guise of preventing harm. We craft 40 scenarios that
-      vary in turns and select 14 harmful categories to generate 56k multi-turn attack
-      data points. We conduct comprehensive experiments on the RED QUEEN ATTACK
-      with four representative LLM families of different sizes. Our experiments reveal
-      that all LLMs are vulnerable to RED QUEEN ATTACK, reaching 87.62% attack
-      success rate on GPT-4o and 75.4% on Llama3-70B. Further analysis reveals that
-      larger models are more susceptible to the RED QUEEN ATTACK, with multi-turn
-      structures and concealment strategies contributing to its success. To prioritize
-      safety, we introduce a straightforward mitigation strategy called RED QUEEN
-      GUARD, which aligns LLMs to effectively counter adversarial attacks. This approach reduces the attack success rate to below 1% while maintaining the model’s
-      performance across standard benchmarks.
+      Data contamination has received increasing attention in the era of large language models (LLMs) due to their reliance on vast Internet-derived training corpora. To mitigate the risk of potential data contamination, LLM benchmarking has undergone a transformation from static to dynamic benchmarking. In this work, we conduct an in-depth analysis of existing static to dynamic benchmarking methods aimed at reducing data contamination risks. We first examine methods that enhance static benchmarks and identify their inherent limitations. We then highlight a critical gap-the lack of standardized criteria for evaluating dynamic benchmarks. Based on this observation, we propose a series of optimal design principles for dynamic benchmarking and analyze the limitations of existing dynamic benchmarks. This survey provides a concise yet comprehensive overview of recent advancements in data contamination research, offering valuable insights and a clear guide for future research efforts. We maintain a GitHub repository to continuously collect both static and dynamic benchmarking methods for LLMs. The repository can be found at this link.
     </p>
   </details>  
-  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2409.17458) | [<span style="color: #1E90FF;">Github</span>](https://github.com/kriti-hippo/red_queen) | [<span style="color: #1E90FF;">Project Website</span>](https://redqueen1011.github.io/)
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2502.17521) | [<span style="color: #1E90FF;">Github</span>](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval) 
 
 ---
 
