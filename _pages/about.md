@@ -16,7 +16,7 @@ My primary research objective is to enhance the reasoning capabilities of AI sys
 
 - **How can we evaluate that models truly understand the answer, rather than getting it through hallucination?**: Whether models can demonstrate a robust and faithful understanding of their answers, providing explanations grounded in verifiable knowledge rather than memorizing training samples, fabricating responses or relying on spurious correlations.
 
-I was a research intern at <a href="https://www.hippocraticai.com/" style="display: inline-flex; align-items: center;"><img src="../assets/main-hippocratic-logo-full-color.png" alt="Hippocratic AI Logo" style="height: 1em; margin-right: 0.3em;">Hipporcratic AI</a> (2024 with [Subhabrata Mukherjee](https://subhomukherjee.com/) and [Kriti Aggarwal](https://www.linkedin.com/in/kriti-agg/))
+I was a research intern at <a href="https://www.amazon.com/gp/video/storefront" style="display: inline-flex; align-items: center;"><img src="../assets/amazon_logo.png" alt="Amazon Logo" style="height: 1em; margin-right: 0.3em;">Amazon & Amazon Prime Video</a> (2025 with [Rui Zhao](https://www.linkedin.com/in/rui-zhao-7855ab26/) and [Yueying Wang](https://www.linkedin.com/in/yueying-wang-stat/)), <a href="https://www.hippocraticai.com/" style="display: inline-flex; align-items: center;"><img src="../assets/main-hippocratic-logo-full-color.png" alt="Hippocratic AI Logo" style="height: 1em; margin-right: 0.3em;">Hipporcratic AI</a> (2024 with [Subhabrata Mukherjee](https://subhomukherjee.com/) and [Kriti Aggarwal](https://www.linkedin.com/in/kriti-agg/)).
 
 
 
