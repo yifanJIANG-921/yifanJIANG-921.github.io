@@ -17,8 +17,14 @@ redirect_from:
     </p>
   </details>  
   [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2504.15585) 
-  
+
+
+---
+
+## 2025
+
 - ### <span style="color: #4682B4; font-weight: bold;">Recent Advances in Large Langauge Model Benchmarks against Data Contamination: From Static to Dynamic Evaluation</span>
+*EMNLP*<br>
    Simin Chen, Yiming Chen, Zexin Li, ***Yifan Jiang***, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray
   <img src="../assets/paper_image/data_contamination.jpg" alt="Data contamination Image" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
@@ -28,10 +34,6 @@ redirect_from:
     </p>
   </details>  
   [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2502.17521) | [<span style="color: #1E90FF;">Github</span>](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval) 
-
----
-
-## 2025
 
 - ### <span style="color: #4682B4; font-weight: bold;">RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking</span>
 *ACL Findings*<br>
