@@ -51,7 +51,7 @@ I was a research intern at <a href="https://www.amazon.com/gp/video/storefront" 
 <a href="https://mapmyvisitors.com/web/1bz4u" title="Visit tracker">
   <img 
     src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=gkn-U_brwSZBCjrX-hrFO9fDBz6rj7GVGzDyYwbp8GY&ct=ffffff"
-    style="width:800px; height:auto;" 
+    style="width:400px; height:auto;" 
     alt="Visitor Map"/>
 </a>
 
