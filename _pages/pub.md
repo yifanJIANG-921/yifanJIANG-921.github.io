@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 ## Preprint
+- ### <span style="color: #4682B4; font-weight: bold;">ORBIT: An Object Property Reasoning Benchmark for Visual Inference Tasks</span>
+  <img src="../assets/paper_image/orbit-tax-500_page-0001.jpg" alt="Full_stack" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      While vision-language models (VLMs) have made remarkable progress on many popular visual question answering (VQA) benchmarks, it remains unclear whether they abstract and reason over depicted objects. Inspired by human object categorisation, object property reasoning involves identifying and recognising low-level details and higher-level abstractions. While current VQA benchmarks consider a limited set of object property attributes like size, they typically blend perception and reasoning, and lack representativeness in terms of reasoning and image categories. To this end, we introduce a systematic evaluation framework with images of three representative types, three reasoning levels of increasing complexity, and four object property dimensions driven by prior work on commonsense reasoning. We develop a procedure to instantiate this benchmark into ORBIT, a multilevel reasoning VQA benchmark for object properties comprising 360 images paired with a total of 1,080 count-based questions. Experiments with 12 state-of-the-art VLMs in zero-shot settings reveal significant limitations compared to humans, with the best-performing model only reaching 40% accuracy. VLMs struggle particularly with realistic (photographic) images, counterfactual reasoning about physical and functional properties, and higher counts. ORBIT points to the need to develop methods for scalable benchmarking, generalize annotation guidelines, and explore additional reasoning VLMs. We make the ORBIT benchmark and the experimental code available to support such endeavors.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2508.10956)|[<span style="color: #1E90FF;">Github</span>](https://github.com/AbhishekKolari/ORBIT) 
+
 - ### <span style="color: #4682B4; font-weight: bold;">A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment</span>
   <img src="../assets/paper_image/Agent.png" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
