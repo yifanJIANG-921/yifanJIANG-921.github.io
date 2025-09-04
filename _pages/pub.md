@@ -11,7 +11,7 @@ redirect_from:
 - ### <span style="color: #4682B4; font-weight: bold;">SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning</span>
 Zhongwei Wan, Zhihao Dou, Che Liu, Yu Zhang, Dongfei Cui,
 Qinjian Zhao, Hui Shen, Jing Xiong, Yi Xin, ***Yifan Jiang***, 
-Chaofan Tao, Yangfan He, Mi Zhang, Shen Yan
+Chaofan Tao, Yangfan He, Mi Zhang, Shen Yan<br>
   <img src="../assets/paper_image/srpo.png" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
