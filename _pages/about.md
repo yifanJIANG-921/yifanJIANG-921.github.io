@@ -47,9 +47,10 @@ I was a research intern at <a href="https://www.amazon.com/gp/video/storefront" 
 - **[2023-01-14]** One [paper](https://arxiv.org/abs/2404.16068) have been accepted to [CVMJ](https://www.editorialmanager.com/cvmj/default.aspx)!
 -->
 
+
 <a href="https://mapmyvisitors.com/web/1bz4u" title="Visit tracker">
   <img 
-    src="https://mapmyvisitors.com/map.png?cl=f2bd0f&w=1600&t=n&d=gkn-U_brwSZBCjrX-hrFO9fDBz6rj7GVGzDyYwbp8GY&co=4ca6e5&ct=ffffff" 
+    src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=gkn-U_brwSZBCjrX-hrFO9fDBz6rj7GVGzDyYwbp8GY&ct=ffffff"
     style="width:800px; height:auto;" 
     alt="Visitor Map"/>
 </a>
