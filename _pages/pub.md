@@ -8,6 +8,19 @@ redirect_from:
 ---
 
 ## Preprint
+- ### <span style="color: #4682B4; font-weight: bold;">SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning</span>
+Zhongwei Wan, Zhihao Dou, Che Liu, Yu Zhang, Dongfei Cui,
+Qinjian Zhao, Hui Shen, Jing Xiong, Yi Xin, ***Yifan Jiang***, 
+Chaofan Tao, Yangfan He, Mi Zhang, Shen Yan
+  <img src="../assets/paper_image/srpo.png" alt="Full_stack" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+   Multimodal large language models (MLLMs) have shown promising capabilities in reasoning tasks, yet still struggle significantly with complex problems requiring explicit self-reflection and self-correction, especially compared to their unimodal text-based counterparts. Existing reflection methods are simplistic and struggle to generate meaningful, instructive feedback, as the reasoning ability and knowledge limits of pre-trained models are largely fixed during initial training. To overcome these challenges, we propose multimodal Self-Reflection enhanced reasoning with Group Relative Policy Optimization SRPO, a two-stage reflection-aware reinforcement learning (RL) framework explicitly designed to enhance multimodal LLM reasoning. In the first stage, we construct a high-quality, reflection-focused dataset under the guidance of an advanced MLLM, which generates reflections based on initial responses to help the policy model to learn both reasoning and self-reflection. In the second stage, we introduce a novel reward mechanism within the GRPO framework that encourages concise and cognitively meaningful reflection while avoiding redundancy. Extensive experiments across multiple multimodal reasoning benchmarks—including MathVista, MathVision, Mathverse, and MMMU-Pro—using Qwen-2.5-VL-7B and Qwen-2.5-VL-32B demonstrate that SRPO significantly outperforms state-of-the-art models, achieving notable improvements in both reasoning accuracy and reflection quality.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2506.01713)
+
 - ### <span style="color: #4682B4; font-weight: bold;">ORBIT: An Object Property Reasoning Benchmark for Visual Inference Tasks</span>
 Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst, Filip Ilievski
   <img src="../assets/paper_image/orbit-tax-500_page-0001.jpg" alt="Full_stack" style="width: 500px;">
