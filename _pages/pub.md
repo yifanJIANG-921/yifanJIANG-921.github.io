@@ -9,6 +9,7 @@ redirect_from:
 
 ## Preprint
 - ### <span style="color: #4682B4; font-weight: bold;">ORBIT: An Object Property Reasoning Benchmark for Visual Inference Tasks</span>
+Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst, Filip Ilievski
   <img src="../assets/paper_image/orbit-tax-500_page-0001.jpg" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
