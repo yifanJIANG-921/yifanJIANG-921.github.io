@@ -38,7 +38,7 @@ Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst
 - ### <span style="color: #4682B4; font-weight: bold;">Engage for All: Making Ordinary Image Descriptions Appealing Again!</span>
 Yuyan Chen, ***Yifan Jiang***, Li Zhou, Jinghan Cao, Yu Guan, Ming Yang, Qingpei Guo
 <br>*ICCV*<br>
-  <img src="../assets/paper_image/charmnet.png" alt="Full_stack" style="width: 500px;">
+  <img src="../assets/paper_image/charmnet.jpg" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
