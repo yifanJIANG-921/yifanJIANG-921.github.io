@@ -9,7 +9,7 @@ redirect_from:
 
 ## Preprint
 - ### <span style="color: #4682B4; font-weight: bold;">VIDEOP2R: Video Understanding from Perception to Reasoning</span>
-***Yifan Jiang***, Yueying Wang, Rui Zhao, Toufiq Parag, Zhimin Chen, Zhenyu Liao, Jayakrishnan Unnikrishnan
+***Yifan Jiang***, Yueying Wang, Rui Zhao, Toufiq Parag, Zhimin Chen, Zhenyu Liao, Jayakrishnan Unnikrishnan<br>
   <img src="../assets/paper_image/videop2r.png" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
