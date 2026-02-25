@@ -8,18 +8,6 @@ redirect_from:
 ---
 
 ## Preprint
-- ### <span style="color: #4682B4; font-weight: bold;">VIDEOP2R: Video Understanding from Perception to Reasoning</span>
-***Yifan Jiang***, Yueying Wang, Rui Zhao, Toufiq Parag, Zhimin Chen, Zhenyu Liao, Jayakrishnan Unnikrishnan<br>
-  <img src="../assets/paper_image/videop2r.png" alt="Full_stack" style="width: 500px;">
-  <details style="margin-left: 20px; padding: 5px;">
-    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
-    <p style="margin-top: 10px; padding-left: 15px;">
-      Reinforcement fine-tuning (RFT), a two-stage framework consisting of supervised fine-tuning (SFT) and reinforcement learning (RL) has shown promising results on improving reasoning ability of large language models (LLMs). Yet extending RFT to large video language models (LVLMs) remains challenging. We propose VideoP2R, a novel process-aware video RFT framework that enhances video reasoning by modeling perception and reasoning as distinct processes. In the SFT stage, we develop a three-step pipeline to generate VideoP2R-CoT-162K, a high-quality, process-aware chain-of-thought (CoT) dataset for perception and reasoning. In the RL stage, we introduce a novel process-aware group relative policy optimization (PA-GRPO) algorithm that supplies separate rewards for perception and reasoning. Extensive experiments show that VideoP2R achieves state-of-the-art (SotA) performance on six out of seven video reasoning and understanding benchmarks. Ablation studies further confirm the effectiveness of our process-aware modeling and PA-GRPO and demonstrate that model's perception output is information-sufficient for downstream reasoning.
-    </p>
-  </details>  
-  [<span style="color: #1E90FF;">Paper</span>](https://www.arxiv.org/pdf/2511.11113) | [<span style="color: #1E90FF;">Media Coverage</span>](https://medium.com/@jenray1986/beyond-the-black-box-how-videop2r-decouples-perception-from-reasoning-to-revolutionize-video-ai-c4881c43f0ef)
-
-
 - ### <span style="color: #4682B4; font-weight: bold;">ORBIT: An Object Property Reasoning Benchmark for Visual Inference Tasks</span>
 Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst, Filip Ilievski
   <img src="../assets/paper_image/orbit-tax-500_page-0001.jpg" alt="Full_stack" style="width: 500px;">
@@ -41,6 +29,20 @@ Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst
   </details>  
   [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/abs/2504.15585) 
 
+---
+
+## 2026
+- ### <span style="color: #4682B4; font-weight: bold;">VIDEOP2R: Video Understanding from Perception to Reasoning</span>
+***Yifan Jiang***, Yueying Wang, Rui Zhao, Toufiq Parag, Zhimin Chen, Zhenyu Liao, Jayakrishnan Unnikrishnan<br>
+*CVPR*<br>
+  <img src="../assets/paper_image/videop2r.png" alt="Full_stack" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      Reinforcement fine-tuning (RFT), a two-stage framework consisting of supervised fine-tuning (SFT) and reinforcement learning (RL) has shown promising results on improving reasoning ability of large language models (LLMs). Yet extending RFT to large video language models (LVLMs) remains challenging. We propose VideoP2R, a novel process-aware video RFT framework that enhances video reasoning by modeling perception and reasoning as distinct processes. In the SFT stage, we develop a three-step pipeline to generate VideoP2R-CoT-162K, a high-quality, process-aware chain-of-thought (CoT) dataset for perception and reasoning. In the RL stage, we introduce a novel process-aware group relative policy optimization (PA-GRPO) algorithm that supplies separate rewards for perception and reasoning. Extensive experiments show that VideoP2R achieves state-of-the-art (SotA) performance on six out of seven video reasoning and understanding benchmarks. Ablation studies further confirm the effectiveness of our process-aware modeling and PA-GRPO and demonstrate that model's perception output is information-sufficient for downstream reasoning.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://www.arxiv.org/pdf/2511.11113) | [<span style="color: #1E90FF;">Media Coverage</span>](https://medium.com/@jenray1986/beyond-the-black-box-how-videop2r-decouples-perception-from-reasoning-to-revolutionize-video-ai-c4881c43f0ef)
 
 ---
 
