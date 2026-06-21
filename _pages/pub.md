@@ -10,7 +10,7 @@ redirect_from:
 ## Preprint
 - ### <span style="color: #4682B4; font-weight: bold;">AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties</span>
 ***Yifan Jiang***, Meige Yang, Zitong Li, Jay Pujara
-  <img src="../assets/paper_image/teaser.0001.jpg" alt="Full_stack" style="width: 500px;">
+  <img src="../assets/paper_image/teaser.0001.png" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
