@@ -33,7 +33,7 @@ Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst
 
 ## 2026
 - ### <span style="color: #4682B4; font-weight: bold;">AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties</span>
-***Yifan Jiang***, Meige Yang, Zitong Li, Jay Pujara
+***Yifan Jiang***, Meige Yang, Zitong Li, Jay Pujara<br>
 *EMNLP*<br>
   <img src="../assets/paper_image/teaser.png" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
