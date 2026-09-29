@@ -32,6 +32,31 @@ Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst
 ---
 
 ## 2026
+- ### <span style="color: #4682B4; font-weight: bold;">Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation</span>
+<br>
+*NeurIPS*<br>
+  <img src="../assets/paper_image/teaser.png" alt="Full_stack" style="width: 500px;">
+  <details style="margin-left: 20px; padding: 5px;">
+    <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
+    <p style="margin-top: 10px; padding-left: 15px;">
+      Evaluating agents on the growing number of agentic benchmarks is challenging
+because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks.
+Our work makes three contributions. First, we develop benchmark adapters that
+port more than 80 benchmarks to evaluate arbitrary agents, and validate them
+through rigorous code review and parity experiments. Second, we conduct a largescale evaluation of 8 models spanning capability tiers across 54 benchmarks; every
+model is run with Terminus-2 and with one of 3 native harnesses. This enables a
+broader analysis of agent capabilities and failure modes than was previously possible. Third, we introduce Harbor-Index, a curated set of 82 difficult, diverse, and
+high-quality tasks spanning 29 benchmarks, refined from the adapted suite through
+difficulty filtering, AI and human audit, and an audit-and-fix loop. Harbor-Index
+preserves the challenge and breadth of large-scale agentic evaluations while being
+affordable to run; no evaluated model–harness configuration exceeds 30% pass rate,
+and the strongest (GPT-5.5 with Codex) reaches 28.0%. We release the adapters,
+evaluation results, in-depth analysis, and Harbor-Index as open-source artifacts to
+support more reliable and comprehensive evaluation of language-model agents.
+    </p>
+  </details>  
+  [<span style="color: #1E90FF;">Paper</span>](https://arxiv.org/pdf/2609.04298)
+
 - ### <span style="color: #4682B4; font-weight: bold;">AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties</span>
 ***Yifan Jiang***, Meige Yang, Zitong Li, Jay Pujara<br>
 *EMNLP*<br>
