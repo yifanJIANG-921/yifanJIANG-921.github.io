@@ -35,7 +35,7 @@ Abhishek Kolari, Mohammadhossein Khojasteh, ***Yifan Jiang***, Floris den Hengst
 - ### <span style="color: #4682B4; font-weight: bold;">Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation</span>
 <br>
 *NeurIPS*<br>
-  <img src="../assets/paper_image/teaser.png" alt="Full_stack" style="width: 500px;">
+  <img src="../assets/paper_image/harbor.png" alt="Full_stack" style="width: 500px;">
   <details style="margin-left: 20px; padding: 5px;">
     <summary style="font-weight: bold; color: #0073e6; cursor: pointer;">Abstract</summary>
     <p style="margin-top: 10px; padding-left: 15px;">
